@@ -1,0 +1,22 @@
+Ejercicio #1 - Operadores Lógicos
+Indicar si cada una de las expresiones es verdadera o falsa.
+a) A > 3                     b) A > C                    c) A < C
+d) B < C                     e) B != C                   f) A == 3
+g) A * B == 15               h) A * B == -30             i) C / B < A
+j) C / B == -10              k) C / B == -4              l) A + B + C == 5
+m) (A+B == 8) && (A-B == 2)  n) (A+B == 8) || (A-B == 6)
+o) A > 3 && B > 3 && C < 3   p) A > 3 && B >= 3 && C < -3
+
+Para el desarrollo de este ejercicio, tome los datos enterirores, propuestos en la guia, los describo a continuacion:
+Dadas las variables de tipo int con valores A = 5, B = 3, C = -12 indicar si la evaluación de estas expresiones daría como resultado verdadero o falso:
+
+
+                                              Solucion 
+
+) A > 3  V                         b) A > C  V                         c) A < C   F
+d) B < C  F                        e) B != C   V                       f) A == 3   F
+g) A * B == 15  V                  h) A * B == -30   F                 i) C / B < A  V
+j) C / B == -10  F                 k) C / B == -4    V                 l) A + B + C == 5   F
+m) (A+B == 8) && (A-B == 2)  V     n) (A+B == 8) || (A-B == 6)   V
+o) A > 3 && B > 3 && C < 3   F     p) A > 3 && B >= 3 && C < -3  V
+ 
